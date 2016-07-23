@@ -1,0 +1,6 @@
+[submodule "erlang/ierlang"]
+	path = erlang/ierlang
+	url = git@github.com:robbielynch/ierlang
+[submodule "erlang/rebar3"]
+	path = erlang/rebar3
+	url = git@github.com:erlang/rebar3
